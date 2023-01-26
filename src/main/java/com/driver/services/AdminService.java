@@ -18,5 +18,3 @@ public interface AdminService {
 
 	public List<Customer> getListOfCustomers();
 }
-	public List<Customer> getListOfCustomers();
-}
